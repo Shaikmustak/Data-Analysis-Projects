@@ -2,7 +2,7 @@
 # Coffee Orders Data Analysis Project
 
 ## 👋 Introduction  
-Hi! I'm **<your-name>**, a Data Science student passionate about transforming raw data into actionable insights. This project showcases my skills in data cleaning, analysis, and visualization to solve real-world business problems.  
+Hi! I'm Shaik mohammed Mustak, a Data Science student passionate about transforming raw data into actionable insights. This project showcases my skills in data cleaning, analysis, and visualization to solve real-world business problems.  
 
 ---
 
@@ -40,7 +40,7 @@ A fictional coffee chain provided transactional data (2019–2022) to derive ins
 3. **Loyalty Impact**: Customers with loyalty cards spent 20% more on average.  
 4. **Seasonality**: Sales peaked during holiday months (November–December).  
 
-https://herts365-my.sharepoint.com/:x:/r/personal/ms23air_herts_ac_uk/Documents/coffeeOrdersData%20dashboard.xlsx?d=we61b46de41b240cb908c5a151f45d84f&csf=1&web=1&e=yqfdWc DASHBOARD
+ DASHBOARD
 
 ---
 
