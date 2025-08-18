@@ -40,7 +40,7 @@ A fictional coffee chain provided transactional data (2019–2022) to derive ins
 3. **Loyalty Impact**: Customers with loyalty cards spent 20% more on average.  
 4. **Seasonality**: Sales peaked during holiday months (November–December).  
 
- DASHBOARD
+WhatsApp Image 2025-08-18 at 6.24.31 PM.jpeg DASHBOARD
 
 ---
 
