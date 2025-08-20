@@ -1,7 +1,7 @@
 # Coffee Orders Data Analysis Project
 
 ## 👋 Introduction  
-Hi! I'm **<your-name>**, a Data Science student passionate about transforming raw data into actionable insights. This project showcases my skills in data cleaning, analysis, and visualization to solve real-world business problems.  
+Hi! I'm Shaik Mohammed Mustak, a Data Science student passionate about transforming raw data into actionable insights. This project showcases my skills in data cleaning, analysis, and visualization to solve real-world business problems.  
 
 ---
 
